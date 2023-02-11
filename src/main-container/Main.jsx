@@ -6,6 +6,7 @@ const Main = () => {
   return (
     <section className='Main'>
         <FormLeft />
+        <FormRight />
     </section>
   )
 }
