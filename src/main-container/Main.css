@@ -1,0 +1,11 @@
+.Main{
+    padding: 1rem;
+    min-width: 100vw;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-around;
+    box-sizing: border-box;
+}

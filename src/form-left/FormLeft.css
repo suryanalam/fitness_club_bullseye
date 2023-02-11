@@ -1,0 +1,25 @@
+.form_left-div{
+        background-color: rgb(230, 230, 230);
+        color:black;
+        min-width: 30vw;
+        min-height:50vh;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+}
+.inner-div{
+    padding: 1rem;
+    min-width:100%
+}
+.form-input{
+    min-width: 100%;
+    background-color: white;
+}
+.btn-add{
+    margin: 0.5rem 0.2rem;
+    text-align: center;
+    min-width: 90%;
+    box-sizing: border-box;
+    align-self: center;
+}
