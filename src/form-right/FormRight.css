@@ -1,10 +1,31 @@
 .form_right-div{
+    padding: 1rem;
     background-color: rgb(230, 230, 230);
     color:black;
-    min-width: 50vw;
-    min-height:60vh;
+    min-width: 40vw;
+    min-height:fit-content;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
+.no-data{
+    margin: 0;
+    text-align: left;
+}
+
+.remove-btn{
+    width:40vw;
+}
+
+.delete-icon{
+    color:#dc3545;
+    cursor: pointer;
+}
+
+/* th{
+    text-align: center;
+}
+td{
+    text-align: center;
+} */
